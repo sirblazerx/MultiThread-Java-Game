@@ -1,0 +1,12 @@
+Concurrent Programming
+Building simple game using java multithreading for course WIF3003 Concurrent Programming.
+
+Required Tools
+You must install a JAVA IDE to run this project. We recommend using the latest version of NetBeans. You can download it here https://netbeans.apache.org
+
+Installation guide
+Open git bash or terminal if you're using MacOS/Linux.
+Run git clone https://github.com/sirblazerx/MultiThread-Java-Game/new/master in a directory.
+Open your JAVA IDE.
+Click open a project and select the cloned folder.
+Compile and run.
