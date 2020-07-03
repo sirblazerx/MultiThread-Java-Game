@@ -25,6 +25,17 @@
     
 </table>
 
+
+
+<b>Project Description<b>
+  
+  <p>
+  The project is our Concurrent Programming Assignment whereby we need to create a game that create edges using coordinates
+</p>  
+  
+  
 <b>Project planning<b>
+  
+  
 
 
